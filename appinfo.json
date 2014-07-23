@@ -1,0 +1,43 @@
+{
+    "appKeys": {
+        "code": 3,
+        "data": 1,
+        "delay_text": 7,
+        "destination": 8,
+        "error": 2,
+        "full_name": 5,
+        "refresh": 0,
+        "route": 10,
+        "short_name": 4,
+        "time": 6,
+        "tip": 14,
+        "track": 12,
+        "track_changed": 13,
+        "train_type": 9,
+        "transporter": 11
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Sebastiaan Versteeg",
+    "longName": "Tracks",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/tracks.png",
+                "menuIcon": true,
+                "name": "IMAGE_APP_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Tracks",
+    "uuid": "f5981adb-5786-4ae9-8ed1-ab742ced4040",
+    "versionCode": 3,
+    "versionLabel": "1.1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
