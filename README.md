@@ -1,7 +1,7 @@
 Pebble-Tracks
 =============
 
-The watchapp that makes travelling easier.
+The watchapp that once made travelling easier. It's still here because it's possible. But I never worked on it anymore.
 
 
 -----
